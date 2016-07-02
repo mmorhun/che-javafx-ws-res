@@ -1,0 +1,4 @@
+[begin] (Blackbox)
+	[exec] (Terminal)	{urxvt -fn "xft:Terminus:size=14"}
+	[exec] (SceneBuilder)	{/opt/JavaFXSceneBuilder2.0/JavaFXSceneBuilder2.0}
+[end]
